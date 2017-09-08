@@ -1,5 +1,6 @@
 language: ruby
 cache: bundler
+group: deprecated-2017Q3
 rvm:
   - ruby-head
   - 2.4.1
